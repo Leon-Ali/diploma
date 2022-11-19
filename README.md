@@ -1,1 +1,1 @@
-# skypro_lesson_33
+# diploma
