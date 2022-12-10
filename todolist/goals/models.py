@@ -39,6 +39,7 @@ class GoalCategory(models.Model):
         self.updated = timezone.now()
         return super().save(*args, **kwargs)
 
+
 class Goal(models.Model):
     class Status(models.IntegerChoices):
         to_do = 1, "К выполнению"
