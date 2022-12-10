@@ -46,3 +46,4 @@ class UpdatePasswordView(generics.UpdateAPIView):
 
 
 
+
